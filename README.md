@@ -1,7 +1,7 @@
 
 
 ## Hi 👋 I am Usama! 
-I am Mobile Application developer. 
+Mobile Application developer and Learner. 
 
 - 🌐 Visit my [porfolio website](https://usamayousaf.github.io/UsamaYousafgithub.io/) for complete background and contact.
 - 👋 My LinkendIn [LinkendinProfile](https://www.linkedin.com/in/usamayousaf01/)
