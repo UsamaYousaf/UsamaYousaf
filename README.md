@@ -1,33 +1,14 @@
-### Hi there 👋
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif" width="100"/>
-</div>
+## Hi 👋 I am Usama! 
+I am Mobile Application developer. 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/usamayousaf01">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://usamayousaf.github.io/UsamaYousafgithub.io/">
-    <img src="https://img.shields.io/static/v1?label=Portfolio&logo=portfolio&logoColor&message=%20&color=black?style=plastic&logo=appveyor" alt="Portfolio Badge"/>
-  </a>
-  <a href="https://www.upwork.com/freelancers/~019348dd62be23ed42">
-    <img src="https://img.shields.io/badge/Upwork-black?style=for-the-badge&logo=upwork&logoColor=green&style=plastic" alt="Twitter Badge"/>
-  </a>
-</div>
+- 🌐 Visit my [porfolio website](https://usamayousaf.github.io/UsamaYousafgithub.io/) for complete background and contact.
+- 👋 My LinkendIn [LinkendinProfile](https://www.linkedin.com/in/usamayousaf01/)
+- ✍️ [Upwork Profile](https://www.upwork.com/freelancers/~019348dd62be23ed42)
 
-<!--
-**UsamaYousaf/UsamaYousaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=UsamaYousaf&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=UsamaYousaf&theme=dark&hide_border=true" width = 400>
+</p>
