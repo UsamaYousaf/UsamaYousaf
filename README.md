@@ -10,5 +10,5 @@ Mobile Application developer and Learner.
 ---
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=UsamaYousaf&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=UsamaYousaf&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=UsamaYousaf&theme=dark&hide_border=false" width = 400>
 </p>
