@@ -8,8 +8,8 @@ I'm a Software Engineer constantly learning and growing in the field. Passionate
 - ✍️ Looking for a developer? Find me on [Upwork](https://www.upwork.com/freelancers/~019348dd62be23ed42).
 
 ### About My Journey
-- 🔭 I’m currently working on enhancing my skills in mobile application development.
-- 🌱 I’m actively learning more about AI and machine learning applications in mobile development.
+- 🔭 I’m currently working on enhancing my skills in machine learning.
+- 🌱 I’m actively learning more about AI and Computer Vision in mobile development.
 - 💼 Actively seeking opportunities where I can contribute and grow.
 
 <p align = "center">
