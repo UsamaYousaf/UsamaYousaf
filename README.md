@@ -9,7 +9,7 @@ I'm a Software Engineer constantly learning and growing in the field. Passionate
 
 ### About My Journey
 - 🔭 I’m currently working on enhancing my skills in machine learning.
-- 🌱 I’m actively learning more about AI and Computer Vision in mobile development.
+- 🌱 I’m actively learning more about Transformers and generative AI.
 - 💼 Actively seeking opportunities where I can contribute and grow.
 
 <p align = "center">
